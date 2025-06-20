@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 Playlist-Relinker  • 2025-06-20
@@ -443,4 +442,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-```
